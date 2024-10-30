@@ -50,3 +50,6 @@ Surgery have
 - Name
 - Location
 - Telephone Number
+
+# Class Diagram
+<img width="1012" alt="Screenshot 2024-10-30 at 4 28 25 PM" src="https://github.com/user-attachments/assets/48000e36-08ad-4358-814b-579fd3dc182e">
