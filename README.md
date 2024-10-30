@@ -30,7 +30,7 @@ Patient have
 - Mailing Address
 - Date Of Birth
 
-Patient can<img width="1023" alt="Screenshot 2024-10-30 at 6 09 39 PM" src="https://github.com/user-attachments/assets/40cb6769-fc3a-4ef2-9631-5194ef62319a">
+Patient can
 
 - View their own appointments
 - Book new appointments
