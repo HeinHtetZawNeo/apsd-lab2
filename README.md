@@ -30,7 +30,8 @@ Patient have
 - Mailing Address
 - Date Of Birth
 
-Patient can
+Patient can<img width="1023" alt="Screenshot 2024-10-30 at 6 09 39 PM" src="https://github.com/user-attachments/assets/40cb6769-fc3a-4ef2-9631-5194ef62319a">
+
 - View their own appointments
 - Book new appointments
 - Cancel the appointment
@@ -52,4 +53,4 @@ Surgery have
 - Telephone Number
 
 # Class Diagram
-<img width="1012" alt="Screenshot 2024-10-30 at 4 28 25 PM" src="https://github.com/user-attachments/assets/48000e36-08ad-4358-814b-579fd3dc182e">
+<img width="1023" alt="Screenshot 2024-10-30 at 6 09 39 PM" src="https://github.com/user-attachments/assets/b2828f05-c5be-4f38-a69f-33d400a77093">
